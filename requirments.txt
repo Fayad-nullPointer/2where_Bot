@@ -1,5 +1,7 @@
 streamlit
 transformers
-langchain
+torch
 faiss-cpu
+langchain
 sentence-transformers
+accelerate
